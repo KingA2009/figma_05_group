@@ -268,3 +268,135 @@ form {
     line-height: 24px;
     /* 171.429% */
 }
+--------------Abdurauf---------------------------------------------------------->
+.father {
+    margin-top: 120px;
+    width: 1440px;
+    margin: auto;
+}
+
+.list {
+    margin-top: 120px;
+}
+
+.mather {
+    width: 1440px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.card-p {
+    width: 600px;
+    height: 298.34375px;
+    margin-top: 120px;
+
+}
+
+.p1 {
+    font-family: Raleway;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    color: #214E41;
+}
+
+.h12 {
+    width: 556px;
+    height: 92px;
+    top: 40px;
+    color: #214E41;
+}
+
+.h1 {
+    font-family: Raleway;
+    font-size: 13px;
+    font-weight: 700;
+    line-height: 20px;
+    letter-spacing: 0.05000000074505806px;
+    text-align: left;
+    color: #43806C;
+}
+
+.div {
+    align-items: end;
+    margin-bottom: 120px;
+}
+
+.image {
+    width: 600px;
+    height: 298px;
+    left: 599px;
+    align-items: end;
+}
+
+.H3 {
+    color: #F0A446;
+    font-family: Roboto;
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 78px;
+    /* 130% */
+}
+
+.brother {
+    width: 1440px;
+    margin: auto;
+    display: flex;
+    gap: 100px;
+    margin-top: 80px;
+}
+
+.sister {
+    width: 1440px;
+    margin: auto;
+    margin-top: 120px;
+    display: flex;
+}
+
+.card-img {
+    width: 686px;
+    height: 500px;
+}
+
+.card-p2 {
+    width: 686px;
+    height: 500px;
+    margin-bottom: 50px;
+}
+
+.div2 {
+    color: #43806C;
+    font-family: Raleway;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 20px;
+    /* 153.846% */
+    letter-spacing: 0.05px;
+    text-transform: uppercase;
+    margin-top: 120px;
+}
+
+.HI {
+    color: #214E41;
+    font-family: Roboto;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 46px;
+    /* 127.778% */
+}
+
+.P9 {
+    color: #214E41;
+    font-family: Raleway;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 18px;
+    /* 100% */
+    letter-spacing: 0.02px;
+    margin-bottom: 50px;
+}
